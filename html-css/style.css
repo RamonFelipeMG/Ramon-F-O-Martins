@@ -4,3 +4,18 @@
     font-family: "Dosis", sans-serif;
     padding: 0;
 }
+
+
+header{
+    display: block;
+}
+
+header img {
+    display: block;
+    width: 100%;
+}
+
+section {
+    display: block;
+}
+
